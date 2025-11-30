@@ -20,5 +20,5 @@ my-landing-page/
 All sections are responsive across desktop, tablet, and mobile using CSS Grid/Flexbox and media queries.
 
 
-![Demo](assets/demo.gif)
+![Demo](assests/demo.gif)
 
