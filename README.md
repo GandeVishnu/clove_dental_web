@@ -35,5 +35,5 @@ my-landing-page/
 
 ### 🎥 Website Demo
 
-![Demo](assests/demo.gif)
+![Demo](assets/demo.gif)
 
