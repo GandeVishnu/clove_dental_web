@@ -33,11 +33,6 @@ my-landing-page/
 └── README.md
 ```
 
-## Sections Implemented
-
-
-All sections are responsive across desktop, tablet, and mobile using CSS Grid/Flexbox and media queries.
-
 ### 🎥 Website Demo
 
 ![Demo](assests/demo.gif)
